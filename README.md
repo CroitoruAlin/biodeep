@@ -33,8 +33,7 @@ python preprocess.py
 cd ..
 python preprocessing/rearrange.py
 ```
-3. Download  from [here](https://github.com/SCLBD/DeepfakeBench/releases/tag/v1.0.1) the pretrained checkpoint that you want to use.
-Use our configs:
+3. Download  from [here](https://github.com/SCLBD/DeepfakeBench/releases/tag/v1.0.1) the pretrained checkpoint that you want to use and copy our config files in the DeepfakeBench benchmark codebase:
 ```commandline
 cp ../resources/training/test.py training/test.py
 cp ../resources/training/config/test_config.yaml training/config/test_config.yaml
