@@ -2,7 +2,7 @@
 
 BioDeep dataset link: https://huggingface.co/datasets/University-of-Bucharest-BioDeep/BioDeepAV
 
-Get the project: 
+Clone the project: 
 ```commandline
 git clone --recurse-submodules https://github.com/CroitoruAlin/biodeep.git
 ```
