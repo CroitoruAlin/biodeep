@@ -1,0 +1,6 @@
+[submodule "DeepfakeBench"]
+	path = DeepfakeBench
+	url = git@github.com:SCLBD/DeepfakeBench.git
+[submodule "BioDeepAV"]
+	path = BioDeepAV
+	url = git@hf.co:datasets/University-of-Bucharest-BioDeep/BioDeepAV
