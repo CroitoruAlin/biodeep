@@ -8,7 +8,7 @@ git clone --recurse-submodules https://github.com/CroitoruAlin/biodeep.git
 ```
 
 
-Experiments on BioDeepAV:
+## Experiments on BioDeepAV:
 1. Create conda environment:
 ```commandline
 cd DeepfakeBench
@@ -50,8 +50,13 @@ python3 training/test.py --detector_path ./training/config/detector/ucf.yaml --t
 ```
 
 ## Acknowledgements
+
 We use the DeepfakeBench benchmark code for evaluation:
+
 https://github.com/SCLBD/DeepfakeBench/
+
 As real examples in our experiments we used samples from TalkingHead-1KH and HDTF:
+
 https://github.com/tcwang0509/TalkingHead-1KH
+
 https://github.com/universome/HDTF/tree/main
