@@ -4,6 +4,7 @@ BioDeep dataset link: https://huggingface.co/datasets/University-of-Bucharest-Bi
 
 Clone the project: 
 ```commandline
+git lfs install
 git clone --recurse-submodules https://github.com/CroitoruAlin/biodeep.git
 ```
 
