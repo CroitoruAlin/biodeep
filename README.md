@@ -38,7 +38,7 @@ python preprocessing/rearrange.py
 ```commandline
 cp ../resources/training/test.py training/test.py
 cp ../resources/training/config/test_config.yaml training/config/test_config.yaml
-cp ../resources/training/config/detector/<model>.yaml training/config/<model>.yaml # cp ../resources/training/config/detector/ucf.yaml training/config/detector/ucf.yaml 
+cp ../resources/training/config/detector/<model>.yaml training/config/detector/<model>.yaml # cp ../resources/training/config/detector/ucf.yaml training/config/detector/ucf.yaml 
 ```
 Run the inference code with the previous downloaded checkpoint:
 ```commandline
