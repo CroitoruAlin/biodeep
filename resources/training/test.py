@@ -187,7 +187,7 @@ def main():
             if 'module.' in key:
                 new_ckpt[key.split("module.")[-1]] = ckpt[key]
             else:
-                new_ckpt[key] = ckpt
+                new_ckpt[key] = ckpt[key]
         model.load_state_dict(new_ckpt, strict=True)
         print('===> Load checkpoint done!')
     else:
