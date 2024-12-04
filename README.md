@@ -1,7 +1,8 @@
 # Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook
 
 BioDeep dataset link: https://huggingface.co/datasets/University-of-Bucharest-BioDeep/BioDeepAV
-Survey link: https://arxiv.org/abs/2411.19537
+
+Link to our survey: https://arxiv.org/abs/2411.19537
 
 Clone the project: 
 ```commandline
