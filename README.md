@@ -4,14 +4,15 @@ BioDeep dataset link: https://huggingface.co/datasets/University-of-Bucharest-Bi
 
 Link to our survey: https://arxiv.org/abs/2411.19537
 
-Clone the project: 
+
+## Experiments on BioDeepAV:
+
+### Clone the project: 
 ```commandline
 git lfs install
 git clone --recurse-submodules https://github.com/CroitoruAlin/biodeep.git
 ```
 
-
-## Experiments on BioDeepAV:
 1. Create conda environment:
 ```commandline
 cd DeepfakeBench
